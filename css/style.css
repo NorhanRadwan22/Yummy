@@ -22,7 +22,14 @@ aside {
 }
 #meal-card {
     font-size: 23px !important;
+    position: fixed;
+    top: 20px;
+    left: 30px;
+    right: 10px;
+    bottom: 20px;
+
 }
+
 #menu {
     position: relative;
 

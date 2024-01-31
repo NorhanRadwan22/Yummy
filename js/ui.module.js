@@ -184,4 +184,5 @@ export class UI {
         `
         displayElement.innerHTML = displayBox;
     }
+    
 }
